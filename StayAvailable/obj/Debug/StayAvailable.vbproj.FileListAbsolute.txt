@@ -1,0 +1,16 @@
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\StayAvailable.exe.config
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\StayAvailable.exe
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\StayAvailable.pdb
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\StayAvailable.xml
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\obj\Debug\StayAvailable.Form1.resources
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\obj\Debug\StayAvailable.Resources.resources
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\obj\Debug\StayAvailable.vbproj.GenerateResource.cache
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\obj\Debug\StayAvailable.exe
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\obj\Debug\StayAvailable.xml
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\obj\Debug\StayAvailable.pdb
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\Guna.UI.dll
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\Guna.UI.pdb
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\obj\Debug\StayAvailable.vbproj.CopyComplete
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\Transitions.dll
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\AeroColor.dll
+C:\Users\arshz\source\repos\StayAvailable\StayAvailable\bin\Debug\WindowTitleControl.dll
